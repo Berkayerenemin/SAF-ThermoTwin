@@ -95,7 +95,7 @@ Jet-A cruise baseline: SFC = 38.65 mg/(N·s), η_th = 17.76 %, η_p = 60.69 %, �
 Requirements: Python 3.10+ and the packages in `requirements.txt`.
 
 ```bash
-git clone https://github.com/<your-username>/SAF-ThermoTwin.git
+git clone https://github.com/Berkayerenemin/SAF-ThermoTwin.git
 cd SAF-ThermoTwin
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
@@ -272,7 +272,7 @@ Seyir bazlı Jet-A değerleri: SFC = 38,65 mg/(N·s), η_th = %17,76, η_p = %60
 Gereksinimler: Python 3.10+ ve `requirements.txt` içindeki paketler.
 
 ```bash
-git clone https://github.com/<kullanıcı-adınız>/SAF-ThermoTwin.git
+git clone https://github.com/Berkayerenemin/SAF-ThermoTwin.git
 cd SAF-ThermoTwin
 python -m venv .venv
 .venv\Scripts\activate          # Linux/macOS: source .venv/bin/activate
