@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below and also cite the associated paper."
+title: "SAF-ThermoTwin: Validated Non-Ideal Brayton Cycle Framework for Thermodynamic Performance and Emissions Modelling of SAF Blends in Micro Turbojet Engines"
+type: software
+authors:
+  - family-names: "Emin"
+    given-names: "Berkay Eren"
+    orcid: "https://orcid.org/0009-0000-1779-9443"
+    affiliation: "İzmir Katip Çelebi University, Department of Mechanical Engineering"
+version: "1.0.0"
+date-released: "2026-10-07"
+license: GPL-3.0-or-later
+keywords:
+  - sustainable aviation fuel
+  - SAF
+  - micro-turbojet
+  - Brayton cycle
+  - Cantera
+  - CORSIA
+  - thermodynamic performance
+  - lifecycle CO2
+  - off-design performance
+repository-code: "https://github.com/<your-username>/SAF-ThermoTwin"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Emin"
+      given-names: "Berkay Eren"
+      orcid: "https://orcid.org/0009-0000-1779-9443"
+      affiliation: "İzmir Katip Çelebi University"
+  title: "SAF-ThermoTwin: Validated Non-Ideal Brayton Cycle Framework for Thermodynamic Performance and Emissions Modelling of SAF Blends in Micro Turbojet Engines"
+  collection-title: "2026 11th International Conference on Recent Advances in Air and Space Technologies (RAST)"
+  year: 2026
+  start: 1
+  end: 6
+  location:
+    name: "Istanbul, Turkiye"
+  publisher:
+    name: "IEEE"
+  doi: "10.1109/RAST69551.2026.11672525"
